@@ -14,6 +14,10 @@ Copy `.agents/skills/` into the root of the Literary-MT-Research repository, or 
 - **literary-mt-source-verification** — verify papers, datasets, models, claims, provenance, and licenses.
 - **literary-mt-evidence-synthesis** — synthesize evidence, contradictions, and decision implications.
 - **literary-mt-experiment-design** — design falsifiable, reader-centered experiments without running them.
+- **literary-mt-socratic-inquiry** — interactive clarification of uncertain research goals and questions.
+- **literary-mt-adversarial-review** — stress-test consequential claims, decisions, and experiment proposals.
+
+Use Socratic inquiry only when interactive exploration is wanted. Use adversarial review for consequential decisions; routine tasks do not need either skill.
 
 ## Source of truth
 
